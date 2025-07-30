@@ -1,0 +1,17 @@
+
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: grey;
+}
+
+.about {
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    image-resolution: 500px;
+}
+
+body {
+    background-color: blue;
+}
